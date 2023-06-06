@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.language-filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: red;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Lobster';
+  text-align: center;
+}

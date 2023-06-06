@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.language-filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.tab-btn {
+  margin: 10px;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.highlight {
+  border-radius: 10px;
+  border-color: blue;
+}
